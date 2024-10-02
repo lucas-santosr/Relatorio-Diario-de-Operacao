@@ -67,7 +67,7 @@ Inserir gráfico do comportamento da geração de energia nas últimas 24h, na p
 
 # 8. Documentação Completa do Projeto
 
-# Documentação da Tabela `bi_rdo_evento`
+## Documentação da Tabela `bi_rdo_evento`
 
 ## Estrutura da Tabela
 
@@ -127,7 +127,7 @@ Inserir gráfico do comportamento da geração de energia nas últimas 24h, na p
 9. **Seleção de Colunas**:
    - A função `Table.SelectColumns` reduz o conjunto de colunas para aquelas consideradas relevantes para a análise final. Colunas intermediárias ou desnecessárias são removidas, mantendo apenas os campos essenciais.
 
-# Documentação da Tabela `bi_evento_registro`
+## Documentação da Tabela `bi_evento_registro`
 
 ## Estrutura da Tabela
 
@@ -147,7 +147,7 @@ Inserir gráfico do comportamento da geração de energia nas últimas 24h, na p
 3. **Seleção de Colunas**: 
    - A tabela resultante é filtrada novamente para selecionar apenas duas colunas: `data_registro` e `cod_evento`. Isso torna a tabela mais eficiente ao remover colunas que não são necessárias para a análise final.
   
-# Documentação da Tabela `bi_rdo_control`
+## Documentação da Tabela `bi_rdo_control`
 
 ## Estrutura da Tabela
 
@@ -193,7 +193,7 @@ Inserir gráfico do comportamento da geração de energia nas últimas 24h, na p
 10. **Conversão Final de Tipos**: 
     - As colunas calculadas são convertidas novamente para o tipo `number` para garantir que estejam no formato correto.
 
-# Documentação da Tabela `bi_si`
+## Documentação da Tabela `bi_si`
 
 ## Estrutura da Tabela
 
@@ -229,7 +229,7 @@ Inserir gráfico do comportamento da geração de energia nas últimas 24h, na p
 5. **Seleção de Colunas**:
    - Finalmente, a tabela `bi_si` é reduzida para conter apenas as colunas essenciais, removendo colunas intermediárias e temporárias.
 
-# Documentação da Tabela `bi_si_equipamento`
+## Documentação da Tabela `bi_si_equipamento`
 
 ## Estrutura da Tabela
 
@@ -263,7 +263,7 @@ Inserir gráfico do comportamento da geração de energia nas últimas 24h, na p
 5. **Seleção de Colunas**:
    - Apenas as colunas essenciais são mantidas, como `Usina`, `Equipamento`, `Complexo Eolico`, e `cod_si`.
 
-# Documentação da Tabela `bi_si_hist`
+## Documentação da Tabela `bi_si_hist`
 
 ## Estrutura da Tabela
 
@@ -304,7 +304,7 @@ Inserir gráfico do comportamento da geração de energia nas últimas 24h, na p
 6. **Seleção de Colunas**:
    - Após todas as transformações, apenas as colunas essenciais são mantidas na tabela final, removendo colunas temporárias e irrelevantes, como `excluido` e outras que não são necessárias para a análise.
   
-# Documentação da Tabela `bi_motivo`
+## Documentação da Tabela `bi_motivo`
 
 ## Estrutura da Tabela
 
@@ -321,7 +321,7 @@ Inserir gráfico do comportamento da geração de energia nas últimas 24h, na p
 2. **Seleção de Colunas**:
    - Após o carregamento, a tabela é filtrada para conter apenas duas colunas: `desc_motivo` e `cod_motivo`, fornecendo as descrições dos motivos e seus respectivos códigos.
 
-# Documentação da Tabela `bi_si_registro`
+## Documentação da Tabela `bi_si_registro`
 
 ## Estrutura da Tabela
 
@@ -341,7 +341,7 @@ Inserir gráfico do comportamento da geração de energia nas últimas 24h, na p
 4. **Estrutura Final da Tabela**:
    - A tabela final contém apenas as duas colunas essenciais: `cod_motivo`, que representa o código do motivo associado ao registro, e `cod_si`, que identifica a Solicitação de Intervenção (SI) relacionada.
   
-# Documentação da Tabela `Complexo`
+## Documentação da Tabela `Complexo`
 
 ## Estrutura da Tabela
 
