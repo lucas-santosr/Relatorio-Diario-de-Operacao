@@ -1,4 +1,6 @@
-# RDO - Relatório Diário de Operação | Energimp - Novo formato de relatório usando Power BI
+# RDO - Relatório Diário de Operação | Energimp 
+   >**Novo formato de relatório usando Power BI**
+
 
 **Elaborado por:** Lucas dos Santos Rodrigues | Pré e Pós Operação Energimp
 
@@ -30,7 +32,7 @@ O Centro de Operações gera um relatório diariamente sobre todos os acontecime
 
 O Desafio
 
-A área de operações sentiu a necessidade de reformular o relatório, modificando seu visual, acrescentando mais informações e adquirindo independência deste Relatório para executar as manutenções que desejar. Com isso, passa a não depender de fornecedor para melhorias e correções, ganhando bastante tempo e economizando $$$.
+A área de operações sentiu a necessidade de reformular o relatório, modificando seu visual, acrescentando mais informações e adquirindo independência deste Relatório para executar as manutenções que desejar. Com isso, passa a não depender de fornecedor para melhorias e correções, ganhando bastante tempo e economizando custos.
 
 
 # 2. Premissas assumidas 
