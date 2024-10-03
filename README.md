@@ -1,5 +1,9 @@
 # RDO - Relatório Diário de Operação | Energimp - Novo formato de relatório usando Power BI
 
+**Elaborado por:** Lucas dos Santos Rodrigues | Pré e Pós Operação Energimp
+
+**Colaboração - Design e Gestora de Projetos:** Valdislania Viana | VB Soluções Gerenciais
+
 # Sobre a ENERGIMP
 A ENERGIMP nasce da união de esforços para promover investimentos em projetos de geração de energia elétrica a partir de fontes renováveis, como a eólica.
 Fatores naturais como a climatologia e o relevo dos estados do Ceará e Santa Catarina favoreceram a construção dos complexo eólicos que hoje geram energia para diversas cidades dessas regiões.
