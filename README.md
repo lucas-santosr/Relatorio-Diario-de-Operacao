@@ -57,7 +57,7 @@ O relatório foi dividido em três páginas, que reflete as principais visões d
 # 4. O produto final do projeto
 Painel online disponível para acesso via Power BI Web (funcionários ENERGIMP);
 
-O painel pode ser acessado através desse link: https://app.powerbi.com/links/SUepEAvuaa?ctid=e4b67d43-6dcf-4ce9-b51c-35b8363fffd3&pbi_source=linkShare&bookmarkGuid=b3a3ed61-8110-4423-97ea-7eaff8571939
+O painel pode ser acessado através do [link](https://app.powerbi.com/links/SUepEAvuaa?ctid=e4b67d43-6dcf-4ce9-b51c-35b8363fffd3&pbi_source=linkShare&bookmarkGuid=b3a3ed61-8110-4423-97ea-7eaff8571939) .
 
 O Relatório será filtrado por Complexo Eólico, exportado .PDF e enviado ao corpo técnico (O&M) da ENERGIMP.
 
